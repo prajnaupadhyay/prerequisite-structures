@@ -1,4 +1,4 @@
-#parses a mediawiki dump and creates another dump containing only the first paragraph content
+#extracts first line from the first para mediawiki dump 
 
 import re
 import nltk.data
