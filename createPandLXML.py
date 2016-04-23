@@ -1,4 +1,4 @@
-#filters the technical content out
+#Fiters the techincal content out from the output returned from dizzy logic parser
 
 import xml.sax
 import time
