@@ -1,5 +1,5 @@
 # Does the following
-# 1) Creates prerequisite trees for an input concept using Topological sort concept considering all the links of wikipedia (thelatest code)
+# 1) Creates prerequisite trees for an input concept using Topological sort concept considering all the links (or first para links) of wikipedia (thelatest code)
 
 import xml.sax
 import time
