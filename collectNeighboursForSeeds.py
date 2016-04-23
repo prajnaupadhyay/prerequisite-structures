@@ -1,5 +1,5 @@
 # Does the following
-# 1) Collects the neighbours for a concept located upto 3 hop away from a seed input concept. Input is a list of seed concepts
+# 1) Collects the neighbours for a concept located upto 2 hops away from a seed input concept. Input is a list of seed concepts
 
 import xml.sax
 import time
