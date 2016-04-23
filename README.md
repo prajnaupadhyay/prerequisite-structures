@@ -6,7 +6,7 @@
 
 3) filterDataset.py: Filters the technical content out
 
-4) createPandLXML.py: Fiters the techincal content out from the original mediawiki dump
+4) createPandLXML.py: Fiters the techincal content out from the output returned from dizzy logic parser
 
 5) collectSeeds1.py: Collects seed technical concepts into a single list
 
